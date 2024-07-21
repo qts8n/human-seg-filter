@@ -1,0 +1,6 @@
+numpy==1.26.4
+opencv-python<=4.6.0
+PyYAML==6.0.1
+-f https://www.paddlepaddle.org.cn/whl/linux/cudnnin/stable.html
+paddlepaddle-gpu==2.6.1.post120
+paddleseg==2.8.0
